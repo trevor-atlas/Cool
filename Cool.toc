@@ -1,11 +1,9 @@
 ## Interface: 80000
 ## Version: 8.0.002
 
-## Title: CoolLine
-## Notes: Shows cooldowns on a single bar.
-## Author: TotalPackage, Phanx
-## X-Curse-Project-ID: 20148
-## X-WoWI-ID: 12467
+## Title: Cool
+## Notes: Shows cooldowns on a timeline
+## Author: Zeerah, TotalPackage, Phanx
 
 ## SavedVariables: CoolLineDB
 ## SavedVariablesPerCharacter: CoolLineCharDB
